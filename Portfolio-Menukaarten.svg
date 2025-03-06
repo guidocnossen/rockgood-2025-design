@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1576.8 729.8">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        filter: url(#drop-shadow-1);
+      }
+
+      .st1 {
+        fill: #f8f8f8;
+      }
+
+      .st2 {
+        clip-path: url(#clippath);
+      }
+
+      .st3 {
+        fill: #d3dfaf;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st1" width="1576.8" height="729.8"/>
+    </clipPath>
+    <filter id="drop-shadow-1" x="-740.9" y="-332.6" width="2076" height="1616.6" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2"/>
+      <feGaussianBlur result="blur" stdDeviation="12"/>
+      <feFlood flood-color="#000" flood-opacity=".2"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect class="st1" width="1576.8" height="729.8"/>
+  <g class="st2">
+    <circle class="st3" cx="399" cy="364.9" r="491"/>
+    <g id="Square_mockup.psd" class="st0">
+      <image id="Square_mockup" width="4000" height="2500" transform="translate(-740.9 191) rotate(-16.7) scale(.5)" xlink:href="Portfolio-Menukaarten-1.png"/>
+    </g>
+  </g>
+</svg>
