@@ -7,3 +7,4 @@ Nieuwe punten voor de site:
 - Graag de lettertypes vervangen, alles moet wat subtieler gaan ogen, als een lagere lettertype grote nodig is dan is dat oke! 
 - Homepage wat groter, met foto meer ingezoomed
 - "R" Logo aanpassen, nieuwe bestand is geupload, graag ook wat kleiner, alleen de gekleurde rand moet dus bewerkbaar zijn. 
+- Spacing tussen de fotos bij cases iets dunner
