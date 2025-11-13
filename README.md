@@ -4,3 +4,5 @@ Nieuwe punten voor de site:
 - onder revieuws wil ik graag een button die lijdt naar https://g.page/rockgood-design/review?mp
 - Logo's van klanten mogen wel antraciet, was niet perse de bedoeling dat die groen zouden zijn haha
 - merkactivatie, merkontwikkeling etc moeten allemaal eigen landingspagina krijgen. Dus moet clickable worden, ik zal even bezig met een ontwerp daarvoor.
+- Graag de lettertypes vervangen, alles moet wat subtieler gaan ogen, als een lagere lettertype grote nodig is dan is dat oke! 
+- Homepage wat groter, met foto meer ingezoomed
