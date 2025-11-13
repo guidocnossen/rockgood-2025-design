@@ -6,3 +6,4 @@ Nieuwe punten voor de site:
 - merkactivatie, merkontwikkeling etc moeten allemaal eigen landingspagina krijgen. Dus moet clickable worden, ik zal even bezig met een ontwerp daarvoor.
 - Graag de lettertypes vervangen, alles moet wat subtieler gaan ogen, als een lagere lettertype grote nodig is dan is dat oke! 
 - Homepage wat groter, met foto meer ingezoomed
+- "R" Logo aanpassen, nieuwe bestand is geupload, graag ook wat kleiner, alleen de gekleurde rand moet dus bewerkbaar zijn. 
